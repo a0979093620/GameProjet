@@ -70,3 +70,20 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+wolfweb/Build/wolfweb.data
+wolfweb/Build/wolfweb.framework.js
+wolfweb/Build/wolfweb.loader.js
+wolfweb/Build/wolfweb.wasm
+wolfweb/index.html
+wolfweb/TemplateData/favicon.ico
+wolfweb/TemplateData/fullscreen-button.png
+wolfweb/TemplateData/MemoryProfiler.png
+wolfweb/TemplateData/progress-bar-empty-dark.png
+wolfweb/TemplateData/progress-bar-empty-light.png
+wolfweb/TemplateData/progress-bar-full-dark.png
+wolfweb/TemplateData/progress-bar-full-light.png
+wolfweb/TemplateData/style.css
+wolfweb/TemplateData/unity-logo-dark.png
+wolfweb/TemplateData/unity-logo-light.png
+wolfweb/TemplateData/unity-logo-title-footer.png
+wolfweb/TemplateData/webmemd-icon.png
